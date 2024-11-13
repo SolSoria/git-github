@@ -1,6 +1,6 @@
 # Contenido de este repositorio
 
-Mi primer cambio de este repositorio. mi primer hola mundo 
+Un commit mas desde github 
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
